@@ -1,0 +1,11 @@
+C:\Users\a.zakarin\Desktop\FiguresTest\GeometryCalculator\bin\Debug\net5.0\GeometryLibrary.deps.json
+C:\Users\a.zakarin\Desktop\FiguresTest\GeometryCalculator\bin\Debug\net5.0\GeometryLibrary.dll
+C:\Users\a.zakarin\Desktop\FiguresTest\GeometryCalculator\bin\Debug\net5.0\ref\GeometryLibrary.dll
+C:\Users\a.zakarin\Desktop\FiguresTest\GeometryCalculator\bin\Debug\net5.0\GeometryLibrary.pdb
+C:\Users\a.zakarin\Desktop\FiguresTest\GeometryCalculator\obj\Debug\net5.0\GeometryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.zakarin\Desktop\FiguresTest\GeometryCalculator\obj\Debug\net5.0\GeometryLibrary.AssemblyInfoInputs.cache
+C:\Users\a.zakarin\Desktop\FiguresTest\GeometryCalculator\obj\Debug\net5.0\GeometryLibrary.AssemblyInfo.cs
+C:\Users\a.zakarin\Desktop\FiguresTest\GeometryCalculator\obj\Debug\net5.0\GeometryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\a.zakarin\Desktop\FiguresTest\GeometryCalculator\obj\Debug\net5.0\GeometryLibrary.dll
+C:\Users\a.zakarin\Desktop\FiguresTest\GeometryCalculator\obj\Debug\net5.0\ref\GeometryLibrary.dll
+C:\Users\a.zakarin\Desktop\FiguresTest\GeometryCalculator\obj\Debug\net5.0\GeometryLibrary.pdb

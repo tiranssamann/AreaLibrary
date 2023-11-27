@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AreasGet/1.0.0": {
+        "dependencies": {
+          "GeometryLibrary": "1.0.0"
+        },
+        "runtime": {
+          "AreasGet.dll": {}
+        }
+      },
+      "GeometryLibrary/1.0.0": {
+        "runtime": {
+          "GeometryLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AreasGet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GeometryLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
